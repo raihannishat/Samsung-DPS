@@ -1,0 +1,12 @@
+D:\Code\Samsung\Samsung.Data\bin\Debug\net5.0\Samsung.Data.deps.json
+D:\Code\Samsung\Samsung.Data\bin\Debug\net5.0\Samsung.Data.dll
+D:\Code\Samsung\Samsung.Data\bin\Debug\net5.0\ref\Samsung.Data.dll
+D:\Code\Samsung\Samsung.Data\bin\Debug\net5.0\Samsung.Data.pdb
+D:\Code\Samsung\Samsung.Data\obj\Debug\net5.0\Samsung.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Samsung\Samsung.Data\obj\Debug\net5.0\Samsung.Data.AssemblyInfoInputs.cache
+D:\Code\Samsung\Samsung.Data\obj\Debug\net5.0\Samsung.Data.AssemblyInfo.cs
+D:\Code\Samsung\Samsung.Data\obj\Debug\net5.0\Samsung.Data.csproj.CoreCompileInputs.cache
+D:\Code\Samsung\Samsung.Data\obj\Debug\net5.0\Samsung.Data.dll
+D:\Code\Samsung\Samsung.Data\obj\Debug\net5.0\ref\Samsung.Data.dll
+D:\Code\Samsung\Samsung.Data\obj\Debug\net5.0\Samsung.Data.pdb
+D:\Code\Samsung\Samsung.Data\obj\Debug\net5.0\Samsung.Data.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\Code\Samsung\Samsung.Placing\bin\Debug\net5.0\Samsung.Placing.deps.json
+D:\Code\Samsung\Samsung.Placing\bin\Debug\net5.0\Samsung.Placing.dll
+D:\Code\Samsung\Samsung.Placing\bin\Debug\net5.0\ref\Samsung.Placing.dll
+D:\Code\Samsung\Samsung.Placing\bin\Debug\net5.0\Samsung.Placing.pdb
+D:\Code\Samsung\Samsung.Placing\bin\Debug\net5.0\Samsung.Data.dll
+D:\Code\Samsung\Samsung.Placing\bin\Debug\net5.0\Samsung.Data.pdb
+D:\Code\Samsung\Samsung.Placing\obj\Debug\net5.0\Samsung.Placing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Samsung\Samsung.Placing\obj\Debug\net5.0\Samsung.Placing.AssemblyInfoInputs.cache
+D:\Code\Samsung\Samsung.Placing\obj\Debug\net5.0\Samsung.Placing.AssemblyInfo.cs
+D:\Code\Samsung\Samsung.Placing\obj\Debug\net5.0\Samsung.Placing.csproj.CoreCompileInputs.cache
+D:\Code\Samsung\Samsung.Placing\obj\Debug\net5.0\Samsung.Placing.csproj.CopyComplete
+D:\Code\Samsung\Samsung.Placing\obj\Debug\net5.0\Samsung.Placing.dll
+D:\Code\Samsung\Samsung.Placing\obj\Debug\net5.0\ref\Samsung.Placing.dll
+D:\Code\Samsung\Samsung.Placing\obj\Debug\net5.0\Samsung.Placing.pdb
+D:\Code\Samsung\Samsung.Placing\obj\Debug\net5.0\Samsung.Placing.csproj.AssemblyReference.cache
